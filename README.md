@@ -1,24 +1,51 @@
+<h1 align="center">Hi, I'm Vikash 👋</h1>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikash@actops.cloud) 
+<p align="center">
+  Backend and cloud engineer building reliable Java and Spring services, Microsoft 365 integrations, and AWS-based platforms.
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vikashactops&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vikashactops&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vikashactops&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## What I work on
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikashactops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- **Cloud services:** Multi-tenant Java and Spring applications backed by PostgreSQL and deployed on AWS.
+- **Microsoft cloud integrations:** Automated data collection and synchronization across Microsoft 365, Power Platform, and SharePoint.
+- **Platform reliability:** Resilient batch processing, structured observability, containerized workloads, and dependable delivery.
+- **Product development:** Backend APIs and web applications built with Java, TypeScript, JavaScript, and React.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+## Technologies
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vikashactops&limit=5&theme=default&combine_all_yearly_contributions=true)
+**Core:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-[![](https://komarev.com/ghpvc/?username=vikashactops&icon=0&color=0)](https://visitcount.itsvg.in)
+**Supporting:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ActOps repositories
+
+I contribute across the ActOps platform, with work grouped by capability:
+
+- **Platform services:** Core domain functionality, data management, and scheduled batch processing.
+- **Microsoft cloud integrations:** Microsoft 365 service integration and synchronization.
+- **Product applications:** Web interfaces, user-facing applications, and messaging workflows.
+- **Engineering support:** Automated testing, reporting, notifications, and callback processing.
+
+Repository links for team members with access:
+
+[![batch](https://img.shields.io/badge/batch-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/batch) [![notifications](https://img.shields.io/badge/notifications-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/notifications) [![core](https://img.shields.io/badge/core-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/core) [![testing](https://img.shields.io/badge/testing-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/testing) [![ui](https://img.shields.io/badge/ui-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/ui) [![data--manager](https://img.shields.io/badge/data--manager-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/data-manager) [![office365--connector](https://img.shields.io/badge/office365--connector-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/office365-connector) [![reports](https://img.shields.io/badge/reports-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/reports) [![web](https://img.shields.io/badge/web-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/web) [![callback](https://img.shields.io/badge/callback-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/callback) [![messaging](https://img.shields.io/badge/messaging-181717?style=flat-square&logo=github)](https://github.com/dhruv-actops/messaging)
+
+> These repositories are access-restricted. The descriptions above provide public context, while the links support collaborators who already have access.
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=vikashactops&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" alt="Vikash's GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vikashactops&hide_border=true&theme=transparent" alt="Vikash's GitHub contribution streak" />
+</p>
+
+## Connect
+
+Interested in backend systems, cloud engineering, and reliable integrations? Feel free to get in touch.
+
+[![Email Vikash](https://img.shields.io/badge/Email-vikash%40actops.cloud-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vikash@actops.cloud)
